@@ -45,7 +45,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AlgorithmsTests\BinarySearchTreeSorterTest.cs" />
     <Compile Include="AlgorithmsTests\CatalanNumbersTest.cs" />
     <Compile Include="AlgorithmsTests\CountingSortTest.cs" />
     <Compile Include="AlgorithmsTests\GraphsBellmanFordShortestPaths.cs" />
@@ -72,13 +71,11 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="AlgorithmsTests\InsertionSortTest.cs" />
-    <Compile Include="AlgorithmsTests\QuickSortTest.cs" />
     <Compile Include="DataStructuresTests\QueueTest.cs" />
     <Compile Include="DataStructuresTests\StackTest.cs" />
     <Compile Include="DataStructuresTests\DLinkedListTest.cs" />
     <Compile Include="DataStructuresTests\SLinkedListTest.cs" />
     <Compile Include="DataStructuresTests\ArrayListTest.cs" />
-    <Compile Include="AlgorithmsTests\MergeSorterTest.cs" />
     <Compile Include="DataStructuresTests\BinaryHeapsTest.cs" />
     <Compile Include="DataStructuresTests\PriorityQueuesTest.cs" />
     <Compile Include="DataStructuresTests\BinarySearchTreeTest.cs" />
